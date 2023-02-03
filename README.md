@@ -1,5 +1,5 @@
 <div align-items="center">
-  <h1>Hi 👋, I'm Ivan-Vitaliy Bednarchuk</h1>
+  <h1>Hi 👋, I'm Anton Karpovich</h1>
 </div>
 
 
@@ -8,18 +8,16 @@
 > Me & myself.
 
 - ⌨️ Often working on personal top secret projects.
-- 📚 I'm currently attending IT Highschool Grade 13.
-- ✨ Manga / Anime lover.
+- ✨ Anime lover.
 
 
 <h2>🌐 Socials</h2>
 
 > How to reach me.
 
-<!-- - <img src="https://www.svgrepo.com/show/157006/linkedin.svg" align='center' height="20" width="20" /> LinkedIn: [click me!](https://it.linkedin.com/in/ivan-vitaliy-bednarchuk-0b9a9a212/) -->
+
 - <img src="https://www.svgrepo.com/show/349527/telegram.svg" align-items:='center' height="20" width="20" /> Telegram: [click me!](https://t.me/er_panda)
 - <img src="https://www.svgrepo.com/show/13639/instagram.svg" align-items:='center' height="20" width="20" /> Instagram: [click me!](https://www.instagram.com/_ivan.2002_/)
-<!-- - <img src="https://www.svgrepo.com/show/349338/discord.svg" align='center' height="20" width="20" /> Discord: Gatchi#5728 -->
 
 
 <h2>🔨 Languages and Tools</h2>
