@@ -74,16 +74,3 @@
   <img src="./assets/yarn.svg" width="42" alt="Yarn" /> &nbsp;
   <img src="./assets/vscode.svg" width="42" alt="VSCode" /> &nbsp;
 </div>
-
-<br />
-
-<h2 style="display: flex; align-items: center;"><img src="./assets/github.png" width="37" alt="GitHub" /> &nbsp;GitHub</h2>
-
-> My github activity
-
-<br />
-
-<div align-items:="center">
-  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=pandabug&show_icons=true&theme=tokyonight" />
-  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pandabug&theme=tokyonight&hide_langs_below=3" />
-</div>
