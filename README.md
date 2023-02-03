@@ -56,8 +56,8 @@
 <h3> Databases </h3>
 
 <div style='display: flex'>
-  <img src="./assets/mongodb.svg" width="42" alt="MongoDB" /> &nbsp;
-  <img src="./assets/phpmyadmin.svg" width="84" alt="PhpMyAdmin" /> &nbsp;
+  <img src="./ресурсы/mongodb.svg" width="42" alt="MongoDB" /> &nbsp;
+  <img src="./ресурсы/phpmyadmin.svg" width="84" alt="PhpMyAdmin" /> &nbsp;
 </div>
   
 <h3> OS, softwares and tools </h3>
