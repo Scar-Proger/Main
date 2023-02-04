@@ -7,8 +7,8 @@
 
 > Me & myself.
 
-- ⌨️  Often working on personal top secret projects.
-- ✨  Anime lover.
+- ⌨️ I often work on top-secret personal projects.
+- ✨ Anime lover.
 
 
 <h2>🌐 Socials</h2>
@@ -16,8 +16,8 @@
 > How to reach me.
 
 
-- <img src="https://www.svgrepo.com/show/349527/telegram.svg" align='center' height="20" width="20" /> Telegram: [click me!](https://t.me/er_panda)
-- <img src="https://www.svgrepo.com/show/303449/vk-1-logo.svg" align='center' height="20" width="20" /> ВКонтакте: [click me!](https://www.instagram.com/_ivan.2002_/)
+- <img src="https://www.svgrepo.com/show/349527/telegram.svg" align='center' height="20" width="20" /> Telegram: [сlick on me!](https://t.me/Scar_Proger)
+- <img src="https://www.svgrepo.com/show/303449/vk-1-logo.svg" align='center' height="20" width="20" /> ВКонтакте: [сlick on me!](https://vk.com/zarn1_by)
 
 
 <h2>🔨 Languages and Tools</h2>
@@ -58,7 +58,6 @@
 
 <div style='display: flex'>
   <img src="./ресурсы/windows.svg" width="42" alt="Windows" /> &nbsp;
-  <img src="./ресурсы/apple.svg" width="42" alt="Apple" /> &nbsp;
   <img src="./ресурсы/heroku.svg" width="42" alt="Heroku" /> &nbsp;
   <img src="./ресурсы/npm.svg" width="42" alt="NPM" /> &nbsp;
   <img src="./ресурсы/git.svg" width="42" alt="Git" /> &nbsp;
