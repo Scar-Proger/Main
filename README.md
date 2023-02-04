@@ -39,7 +39,6 @@
 <div style='display: flex'>
   <img src="./ресурсы/node.svg" width="42" alt="NodeJS" /> &nbsp;
   <img src="./ресурсы/react.svg" width="42" alt="React" /> &nbsp;
-  <img src="./ресурсы/redux.svg" width="42" alt="Redux" /> &nbsp;
   <img src="./ресурсы/bootstrap.svg" width="42" alt="Bootstrap" /> &nbsp;
 </div>
 
