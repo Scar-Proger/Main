@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi 👋, I'm Anton Karpovich</h1>
+  <h1>Привет 👋, Меня зовут Антон Карпович</h1>
 </div>
 
 
@@ -29,7 +29,6 @@
   <img src="./ресурсы/html.svg" width="42" alt="HTML" /> &nbsp;
   <img src="./ресурсы/css.svg" width="42" alt="CSS" /> &nbsp;
   <img src="./ресурсы/javascript.svg" width="42" alt="JavaScript" /> &nbsp;
-  <img src="./ресурсы/typescript.svg" width="42" alt="TypeScript" /> &nbsp;
   <img src="./ресурсы/java.svg" width="42" alt="Java" /> &nbsp;
   <img src="./ресурсы/php.svg" width="42" alt="PHP" /> &nbsp;
   <img src="./ресурсы/sql.svg" width="42" alt="SQL" /> &nbsp;
