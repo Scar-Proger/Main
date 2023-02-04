@@ -46,6 +46,7 @@
 
 <div style='display: flex'>
   <img src="./ресурсы/windows.svg" width="42" alt="Windows" /> &nbsp;
+  <img src="./ресурсы/android.svg" width="42" alt="Android" /> &nbsp;
   <img src="./ресурсы/heroku.svg" width="42" alt="Heroku" /> &nbsp;
   <img src="./ресурсы/npm.svg" width="42" alt="NPM" /> &nbsp;
   <img src="./ресурсы/git.svg" width="42" alt="Git" /> &nbsp;
