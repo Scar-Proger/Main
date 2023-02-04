@@ -24,7 +24,6 @@
   <img src="./ресурсы/javascript.svg" width="42" alt="JavaScript" /> &nbsp;
   <img src="./ресурсы/java.svg" width="42" alt="Java" /> &nbsp;
   <img src="./ресурсы/php.svg" width="42" alt="PHP" /> &nbsp;
-  <img src="./ресурсы/sql.svg" width="42" alt="SQL" /> &nbsp;
 </div>
   
 <h3> Фреймворки и библиотеки </h3>
@@ -38,6 +37,7 @@
 <h3> База данных </h3>
 
 <div style='display: flex'>
+  <img src="./ресурсы/sql.svg" width="42" alt="SQL" /> &nbsp;
   <img src="./ресурсы/mongodb.svg" width="42" alt="MongoDB" /> &nbsp;
   <img src="./ресурсы/phpmyadmin.svg" width="84" alt="PhpMyAdmin" /> &nbsp;
 </div>
