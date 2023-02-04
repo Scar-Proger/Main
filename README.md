@@ -16,7 +16,7 @@
 > How to reach me.
 
 
-- <img src="https://www.svgrepo.com/show/349527/telegram.svg" align='center' height="20" width="20" /> Telegram: [сlick me!](https://t.me/Scar_Proger/)
+- <img src="https://www.svgrepo.com/show/349527/telegram.svg" align-items:='center' height="20" width="20" /> Telegram: [click me!](https://t.me/er_panda)
 - <img src="https://www.svgrepo.com/show/303449/vk-1-logo.svg" align='center' height="20" width="20" /> ВКонтакте: [сlick me!](https://vk.com/zarn1_by/)
 
 
