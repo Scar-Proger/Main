@@ -3,27 +3,25 @@
 </div>
 
 
-<h2>🤪 About</h2>
+<h2>🤪 Обо мне</h2>
 
-> Me & myself.
+> Я.
 
-- ⌨️ I often work on top-secret personal projects.
-- ✨ Anime lover.
+- 💻 Часто работаю над личными сверхсекретными проектами.
 
+<h2>🌐 Социальные сети</h2>
 
-<h2>🌐 Socials</h2>
+> Как со мной связаться.
 
-> How to reach me.
-
-- <img src="https://www.svgrepo.com/show/349527/telegram.svg" align='center' height="20" width="20" /> Telegram: [click me!](https://t.me/er_panda)
-- <img src="https://www.svgrepo.com/show/303449/vk-1-logo.svg" align='center' height="20" width="20" /> ВКонтакте: [click me!](https://vk.com/zarn1_by)
+- <img src="https://www.svgrepo.com/show/349527/telegram.svg" align='center' height="20" width="20" /> Telegram: [нажмите на меня!](https://t.me/er_panda)
+- <img src="https://www.svgrepo.com/show/303449/vk-1-logo.svg" align='center' height="20" width="20" /> ВКонтакте: [нажмите на меня!](https://vk.com/zarn1_by)
 
 
-<h2>🔨 Languages and Tools</h2>
+<h2>🔨 Языки и инструменты</h2>
 
-> Stuff I like to work with.
+> Вещи, с которыми мне нравится работать.
 
-<h3> Languages </h3>
+<h3> Языки </h3>
 
 <div style='display: flex'>
   <img src="./ресурсы/c++.svg" width="42" alt="C++" /> &nbsp;
@@ -37,7 +35,7 @@
   <img src="./ресурсы/sql.svg" width="42" alt="SQL" /> &nbsp;
 </div>
   
-<h3> Frameworks and libraries </h3>
+<h3> Фреймворки и библиотеки </h3>
 
 <div style='display: flex'>
   <img src="./ресурсы/node.svg" width="42" alt="NodeJS" /> &nbsp;
@@ -46,14 +44,14 @@
   <img src="./ресурсы/bootstrap.svg" width="42" alt="Bootstrap" /> &nbsp;
 </div>
 
-<h3> Databases </h3>
+<h3> База данных </h3>
 
 <div style='display: flex'>
   <img src="./ресурсы/mongodb.svg" width="42" alt="MongoDB" /> &nbsp;
   <img src="./ресурсы/phpmyadmin.svg" width="84" alt="PhpMyAdmin" /> &nbsp;
 </div>
   
-<h3> OS, softwares and tools </h3>
+<h3> ОС, программное обеспечение и инструменты </h3>
 
 <div style='display: flex'>
   <img src="./ресурсы/windows.svg" width="42" alt="Windows" /> &nbsp;
