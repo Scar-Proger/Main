@@ -6,7 +6,7 @@
 
 > Как со мной связаться.
 
-- <img src="https://www.svgrepo.com/show/349527/telegram.svg" align='center' height="20" width="20" style="margin="20px"/> Telegram: [нажмите на меня!](https://t.me/Scar_Proger)
+- <img src="https://www.svgrepo.com/show/349527/telegram.svg" align='center' style="margin: 20px" height="20" width="20"/> Telegram: [нажмите на меня!](https://t.me/Scar_Proger)
 - <img src="https://www.svgrepo.com/show/303449/vk-1-logo.svg" align='center' height="20" width="20" /> ВКонтакте: [нажмите на меня!](https://vk.com/zarn1_by)
 
 
