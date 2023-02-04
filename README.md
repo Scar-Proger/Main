@@ -16,8 +16,8 @@
 > How to reach me.
 
 
-- <img src="https://www.svgrepo.com/show/349527/telegram.svg" align-items:='center' height="20" width="20" /> Telegram: [click me!](https://t.me/er_panda)
-- <img src="https://www.svgrepo.com/show/303449/vk-1-logo.svg" align-items:='center' height="20" width="20" /> ВКонтакте: [click me!](https://www.instagram.com/_ivan.2002_/)
+- <img src="https://www.svgrepo.com/show/349527/telegram.svg" align='center' height="20" width="20" /> Telegram: [click me!](https://t.me/er_panda)
+- <img src="https://www.svgrepo.com/show/303449/vk-1-logo.svg" align='center' height="20" width="20" /> ВКонтакте: [click me!](https://www.instagram.com/_ivan.2002_/)
 
 
 <h2>🔨 Languages and Tools</h2>
